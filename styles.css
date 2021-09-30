@@ -87,6 +87,7 @@ ul.menu {
 .body-index {
   background-image: url(images/gradientbg.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 .content h1 { 
   font-family: 'Kaisei Tokumin', serif;
@@ -460,6 +461,7 @@ ul.menu {
   width: 100%;
   background: url(images/contactbg.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
